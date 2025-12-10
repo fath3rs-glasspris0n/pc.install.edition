@@ -1,2 +1,7 @@
-- hi, hello!! the links i have are old and I havent updated it so... IT MAY BE DIFFERENT!!!
-- okya so, sign ata pls :3
+echo "# pc.install.edition" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/fath3rs-glasspris0n/pc.install.edition.git
+git push -u origin main
